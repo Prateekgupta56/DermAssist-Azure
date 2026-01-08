@@ -1,0 +1,6 @@
+flask
+requests
+numpy
+tensorflow
+azure-ai-translation-text
+azure-cognitiveservices-speech
