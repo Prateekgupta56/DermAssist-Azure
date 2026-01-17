@@ -1,6 +1,9 @@
 # DermAssist-AI 🩺
 **Imagine Cup 2026 Submission** *Accessible Skin Condition Classification Powered by Microsoft Azure*
 
+## 🎥 Demo
+[https://youtu.be/xCeoxEowit4?si=6YEI8v-GXyCFLiY_]
+
 ## 🌟 Overview
 DermAssist-AI is a healthcare solution designed for non-English speakers. It uses a local TensorFlow Lite model for diagnosis and integrates three Microsoft Azure services to ensure the results are accessible to everyone, regardless of language or literacy.
 
